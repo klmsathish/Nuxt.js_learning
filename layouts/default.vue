@@ -20,7 +20,7 @@ body{
 </style>
 <script>
 import Header from '@/components/navigation/TheHeader'
-import SideNav from '@/components/navigation/TheSideNav'
+import SideNav from '@/components/navigation/TheSidenav'
 
 export default {
   components:{
