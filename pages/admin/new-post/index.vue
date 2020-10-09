@@ -12,6 +12,7 @@ export default {
   components: {
     adminpostform
   },
+  layout:'admin'
 }
 </script>
 <style scoped>
