@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
+    "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
-    "build": "nuxt generate"
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "core-js": "^3.6.5",
@@ -17,6 +17,5 @@
     "stylus": "^0.54.8",
     "stylus-loader": "^4.1.0"
   }
-
-  }
-
+  
+}
